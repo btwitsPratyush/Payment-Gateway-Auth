@@ -8,7 +8,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## Getting Started
+## Getting Started:-
 
 Make sure you have Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
