@@ -35,7 +35,7 @@ You can edit the code using:
 - GitHub's web interface
 - GitHub Codespaces
 
-## Features
+## Features:-
 
 - User Authentication
 - Dashboard Overview
