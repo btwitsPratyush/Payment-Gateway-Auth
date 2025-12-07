@@ -26,7 +26,7 @@ npm i
 npm run dev
 ```
 
-## Development:-
+## Development:
 
 You can edit the code using:
 
